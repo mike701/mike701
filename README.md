@@ -48,9 +48,9 @@
 [![Mac OS badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 
 > ## Some stats about me:
-> [![Michael Abebe's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike701&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+> ## [![Michael Abebe's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike701&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 >
-> [![Michael Abebe's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mike701&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+> ## [![Michael Abebe's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mike701&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 >
 > # Check me out on [![Codewars badge](	https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Mike551)
 
